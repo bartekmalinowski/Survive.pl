@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Survive.pl
 
 Survive.pl is a community-driven app designed to monitor and review real-time natural disasters. Users can submit reports of natural disasters, which are then verified and approved by others within the community.
