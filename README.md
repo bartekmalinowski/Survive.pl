@@ -3,12 +3,6 @@
 Survive.pl is a community-driven app designed to monitor and review real-time natural disasters. Users can submit reports of natural disasters, which are then verified and approved by others within the community.
 
 ## Introduction
-The goal of Survive.pl is to create a reliable, real-time disaster monitoring system through crowd-sourced data. Users can submit reports on natural disasters such as earthquakes, floods, and wildfires, which are then peer-reviewed by other users to ensure accuracy and timeliness.
-# Survive.pl
-
-Survive.pl is a community-driven app designed to monitor and review real-time natural disasters. Users can submit reports of natural disasters, which are then verified and approved by others within the community.
-
-## Introduction
 
 The goal of Survive.pl is to create a reliable, real-time disaster monitoring system through crowd-sourced data. Users can submit reports on natural disasters such as earthquakes, floods, and wildfires, which are then peer-reviewed by other users to ensure accuracy and timeliness.
 
