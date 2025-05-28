@@ -1,0 +1,36 @@
+# Ignore specific directories
+apps/Przetrwaj/
+apps/libs/
+.vs/
+apps/frontend/ernest_monitor/.vscode/
+
+# Ignore Visual Studio and .vs directory
+.vs/
+
+# Ignore build and debug artifacts
+bin/
+obj/
+
+# Ignore user-specific and temp files
+*.suo
+*.user
+*.cache
+*.log
+
+# Ignore compiled and intermediary files
+*.pdb
+*.exe
+*.dll
+
+# Ignore NuGet related files
+*.nuget
+project.nuget.cache
+
+# Ignore MSBuild editor configuration
+*.editorconfig
+
+# Ignore backup and temporary JSON files
+DocumentLayout.backup.json
+
+# Ignore other unnecessary files
+dbcache.v2

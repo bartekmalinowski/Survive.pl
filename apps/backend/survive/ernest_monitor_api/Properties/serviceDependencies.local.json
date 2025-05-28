@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('serviceConnectorResourceGroupName')]/providers/Microsoft.ServiceLinker/locations/northeurope/connectors/ConnectionStringsDatabaseConnection_B228D0D152",
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/survive/databases/Survive",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:DatabaseConnection"
+    },
+    "mssql2": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('serviceConnectorResourceGroupName')]/providers/Microsoft.ServiceLinker/locations/northeurope/connectors/ConnectionStringsAzureSqlConnection_F497B9325A",
+      "secretStore": null,
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/survive/databases/Survive",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:AzureSqlConnection",
+      "dynamicId": null
+    }
+  }
+}

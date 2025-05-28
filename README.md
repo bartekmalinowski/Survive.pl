@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Survive.pl
 
 Survive.pl is a community-driven app designed to monitor and review real-time natural disasters. Users can submit reports of natural disasters, which are then verified and approved by others within the community.
@@ -5,6 +6,15 @@ Survive.pl is a community-driven app designed to monitor and review real-time na
 ## Introduction
 
 The goal of Survive.pl is to create a reliable, real-time disaster monitoring system through crowd-sourced data. Users can submit reports on natural disasters such as earthquakes, floods, and wildfires, which are then peer-reviewed by other users to ensure accuracy and timeliness.
+=======
+# ErnestMonitor
+
+ErnestMonitor is a community-driven app designed to monitor and review real-time natural disasters. Users can submit reports of natural disasters, which are then verified and approved by others within the community.
+
+## Introduction
+
+The goal of ErnestMonitor is to create a reliable, real-time disaster monitoring system through crowd-sourced data. Users can submit reports on natural disasters such as earthquakes, floods, and wildfires, which are then peer-reviewed by other users to ensure accuracy and timeliness.
+>>>>>>> master
 
 ## Features
 
@@ -35,7 +45,11 @@ We welcome contributions from the community! To contribute:
 
 ## Author
 
+<<<<<<< HEAD
 Survive.pl was created by a group of students from Silesian University of Technology. We aimed to build a tool that could help communities stay informed and safe during natural disasters.
+=======
+ErnestMonitor was created by a group of students from Silesian University of Technology. We aimed to build a tool that could help communities stay informed and safe during natural disasters.
+>>>>>>> master
 
 ## License
 
